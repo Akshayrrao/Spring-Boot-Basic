@@ -17,10 +17,10 @@
 
 | Tools | Links |
 | ------ | ------ |
-| IntelliJ IDEA | [https://www.jetbrains.com/idea/download/][PlDb] |
-| Postman | [https://www.postman.com/downloads/][PlDb] |
-| MySQL | [https://dev.mysql.com/downloads/mysql/][PlGh] |
-| MySQL Workbench | [https://dev.mysql.com/downloads/workbench/][PlGd] |
+| IntelliJ IDEA | https://www.jetbrains.com/idea/download/ |
+| Postman | https://www.postman.com/downloads/ |
+| MySQL | https://dev.mysql.com/downloads/mysql/ |
+| MySQL Workbench | https://dev.mysql.com/downloads/workbench/ |
 
 ## Install Docker MySQL & MyPhp Admin
 
